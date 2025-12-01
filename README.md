@@ -1,4 +1,5 @@
 # cursor-review.nvim
+> **Thank you** to all the amazing plugin authors whose work makes this project possible. This plugin stands on the shoulders of giants in the Neovim ecosystem. 🙏
 
 Review Cursor Agent changes in Neovim with a hunk-by-hunk accept/reject workflow.
 
@@ -284,7 +285,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Acknowledgments
 
-- [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) by Lewis Russell
-- [diffview.nvim](https://github.com/sindrets/diffview.nvim) by Sindre T. Strøm
-- [nui.nvim](https://github.com/MunifTanjim/nui.nvim) by Munif Tanjim
+This plugin would not be possible without the incredible work of these authors:
+
+- [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) by Lewis Russell — for powerful git signs and hunk operations
+- [diffview.nvim](https://github.com/sindrets/diffview.nvim) by Sindre T. Strøm — for the beautiful diff interface
+- [nui.nvim](https://github.com/MunifTanjim/nui.nvim) by Munif Tanjim — for elegant floating UI components
+- [plenary.nvim](https://github.com/nvim-lua/plenary.nvim) by TJ DeVries — for essential Lua utilities
+- [nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) by the nvim-tree team — for file icons
+
+Thank you all for your contributions to the Neovim community!
 
