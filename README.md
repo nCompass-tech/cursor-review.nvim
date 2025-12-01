@@ -28,7 +28,7 @@ This plugin integrates [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvi
 
 ```lua
 {
-  "yourusername/cursor-review.nvim",
+  "nCompass-tech/cursor-review.nvim",
   dependencies = {
     "lewis6991/gitsigns.nvim",
     "sindrets/diffview.nvim",
@@ -46,7 +46,7 @@ This plugin integrates [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvi
 
 ```lua
 use {
-  "yourusername/cursor-review.nvim",
+  "nCompass-tech/cursor-review.nvim",
   requires = {
     "lewis6991/gitsigns.nvim",
     "sindrets/diffview.nvim",
@@ -68,7 +68,11 @@ Plug 'sindrets/diffview.nvim'
 Plug 'MunifTanjim/nui.nvim'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-tree/nvim-web-devicons'
+<<<<<<< HEAD
 Plug 'yourusername/cursor-review.nvim'
+=======
+Plug 'nCompass-tech/cursor-review.nvim'
+>>>>>>> bf0cf8f (First push)
 ```
 
 Then in your Lua config:
