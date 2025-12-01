@@ -68,11 +68,7 @@ Plug 'sindrets/diffview.nvim'
 Plug 'MunifTanjim/nui.nvim'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-tree/nvim-web-devicons'
-<<<<<<< HEAD
-Plug 'yourusername/cursor-review.nvim'
-=======
 Plug 'nCompass-tech/cursor-review.nvim'
->>>>>>> bf0cf8f (First push)
 ```
 
 Then in your Lua config:
